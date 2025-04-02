@@ -1,0 +1,10 @@
+C:\Users\Razvan\source\repos\labsgbd1\obj\Debug\labsgbd1.csproj.AssemblyReference.cache
+C:\Users\Razvan\source\repos\labsgbd1\obj\Debug\labsgbd1.Form1.resources
+C:\Users\Razvan\source\repos\labsgbd1\obj\Debug\labsgbd1.Properties.Resources.resources
+C:\Users\Razvan\source\repos\labsgbd1\obj\Debug\labsgbd1.csproj.GenerateResource.cache
+C:\Users\Razvan\source\repos\labsgbd1\obj\Debug\labsgbd1.csproj.CoreCompileInputs.cache
+C:\Users\Razvan\source\repos\labsgbd1\bin\Debug\labsgbd1.exe.config
+C:\Users\Razvan\source\repos\labsgbd1\bin\Debug\labsgbd1.exe
+C:\Users\Razvan\source\repos\labsgbd1\bin\Debug\labsgbd1.pdb
+C:\Users\Razvan\source\repos\labsgbd1\obj\Debug\labsgbd1.exe
+C:\Users\Razvan\source\repos\labsgbd1\obj\Debug\labsgbd1.pdb
